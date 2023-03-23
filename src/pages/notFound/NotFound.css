@@ -1,0 +1,16 @@
+.notfound__container .btn:hover{
+    color: black;
+    background: var(--color-white);
+}
+
+.notfound__container .btn{
+    display: inline-block;
+    margin-top: 2rem;
+
+}
+
+.notfound__container{
+    text-align: center;
+    padding-top: 8rem;
+}
+
